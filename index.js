@@ -4,7 +4,7 @@ const request = require('request');
 const fs = require('fs');
 const querystring = require('querystring');
 (async() => {
-    await new weiboLogin('18813298638', '644179052').init();
+    await new weiboLogin('用户名', '密码').init();
     let result = await getHtml();
     console.log(result);
 
