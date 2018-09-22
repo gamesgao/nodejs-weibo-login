@@ -1,4 +1,5 @@
 # Nodejs 模拟登录新浪微博
+介绍连接：https://ruansongsong.github.io/2017/02/15/Nodejs%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/
 
 ## node版本
 
