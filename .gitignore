@@ -1,3 +1,5 @@
 /node_modules
 /.vscode
 cookies.txt
+test*
+package-lock.json

@@ -23,10 +23,11 @@
   },
   "homepage": "https://github.com/ruansongsong/node-spider-of-weibo#readme",
   "dependencies": {
-    "compression": "^1.7.3",
-    "express": "^4.16.3",
-    "helmet": "^3.13.0",
-    "method-override": "^3.0.0",
-    "request": "^2.83.0"
+    "commander": "^2.19.0",
+    "cookiejar": "^2.1.2",
+    "inquirer": "^6.2.0",
+    "request": "^2.83.0",
+    "superagent": "^4.0.0-beta.5",
+    "terminal-image": "^0.1.1"
   }
 }
